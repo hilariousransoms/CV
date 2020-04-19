@@ -1,2 +1,2 @@
-# CV
-First ever website
+# My First Website
+Currently learning
