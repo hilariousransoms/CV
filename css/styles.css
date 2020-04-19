@@ -1,0 +1,67 @@
+/*********TAG SELECTORS**********/
+body {
+  color: #384f4e;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #2a3b3b;
+  font-family: 'Sacramento', cursive;
+height: 110px;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 100px;
+}
+
+h2 {
+  color: #384f4e;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+  color: #384f4e;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+  color: #384f4e;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*********CLASS SELECTORS**********/
+.top-container {
+  background-color: #8ec6c5;
+  margin-top: 0;
+  padding-top: 5%;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #f4f4f4;
+  margin-top: 0;
+  padding-top: 80px;
+}
+
+.contact-me {
+  padding-bottom: 80px;
+}
+
+.bottom-container {
+  background-color: #8ec6c5;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+}
